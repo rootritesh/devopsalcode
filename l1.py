@@ -1,2 +1,5 @@
 print("First")
 print("sec")
+print("third")
+print("fourth")
+print("five")
